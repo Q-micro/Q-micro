@@ -1,4 +1,4 @@
-![Profile Picture](pic/yay.gif)
+![Profile Picture](pic/town.png)
 ---
 # Hello World! 
 
@@ -10,9 +10,7 @@ Still learning, still building, and probably still fixing something.
 ## Education
 
 **Bachelor's Degree in Information and Communication Technology**  
-Specialization: Programming
-
-Bahrain Polytechnic
+Major: Programming - Bahrain Polytechnic
 
 
 ## Contact
