@@ -1,4 +1,4 @@
-![Profile Picture](pic/cyber.jpg)
+![Profile Picture](pic/yay.gif)
 ---
 # Hello World! 
 
